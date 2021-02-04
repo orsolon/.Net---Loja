@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LojaGama.exe
+C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LojaGama.deps.json
+C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LojaGama.runtimeconfig.json
+C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LojaGama.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LojaGama.dll
+C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LojaGama.pdb
+C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LojaGama.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LojaGama.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LojaGama.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LojaGama.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LojaGama.dll
+C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LojaGama.pdb
+C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LojaGama.genruntimeconfig.cache
